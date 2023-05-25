@@ -8,7 +8,8 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+I grew up in Venezuela, surrounded by a vibrant multicultural community that shaped my fluency in both English and Spanish. During my free time, you'll find me enjoying bowling, tinkering with cars, and playing soccer. Fishing is my way of finding peace and connecting with nature. Fuelled by an unquenchable curiosity, I'm constantly exploring emerging technologies and delving into thought-provoking books to expand my knowledge. Life is a journey I embrace with a positive mindset, seeing challenges as opportunities for personal growth. Collaboration, empathy, and an open mind are values I cherish, as they foster meaningful connections and broaden my perspectives.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
