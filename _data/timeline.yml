@@ -2,10 +2,6 @@
   from: 2018
   to: 2022
   description: "Bachelors: Management Information Systems (MIS)"
+  Minor: "Minor: Computer Science (CS)"
   CGPA: "CGPA: 3.28"
   
-- title: Iowa State University, USA
-  from: 2020
-  to: 2022
-  description: "Minor: Computer Science (CS)"
-  CGPA: "CGPA: 3.28"
