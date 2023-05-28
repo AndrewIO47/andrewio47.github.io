@@ -76,3 +76,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+sass:
+  sass_dir: _sass
