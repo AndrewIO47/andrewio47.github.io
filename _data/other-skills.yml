@@ -1,6 +1,6 @@
 - name: Lambdas
   percentage: 80
-  color: info
+  color: success
 
 - name: REST
   percentage: 85
