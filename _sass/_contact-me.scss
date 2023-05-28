@@ -1,21 +1,14 @@
-.email-container {
+.email-container,
+.github-container,
+.phone-container {
   display: flex;
   align-items: center;
+  margin-bottom: 10px;
 }
 
-.email-container .fa-envelope {
-  margin-right: 10px;
-}
-
-.email-container .email {
-  font-size: 24px;
-}
-
-
-.github {
-    font-size: 20px;
-}
-
-.phone-number {
-    font-size: 20px;
+.email,
+.github,
+.phone {
+  margin-left: 10px;
+  font-size: 30px;
 }
