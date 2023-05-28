@@ -1,6 +1,7 @@
 .email-container,
 .github-container,
-.phone-container {
+.phone-container,
+.linkedin-container {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
@@ -8,7 +9,8 @@
 
 .email,
 .github,
-.phone {
+.phone,
+.linkedin {
   margin-left: 10px;
   font-size: 30px;
 }
